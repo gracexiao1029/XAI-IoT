@@ -94,11 +94,11 @@ Top N features are selected for the next training phase. To identify the best N,
 
 ### Hyperparameter Tuning
 
-- **Learning Rates**: `0.001, 0.01`
-- **Dropout Rates**: `0.2, 0.4`
-- **Hidden Units (Layer 1)**: `32, 64, 128`
-- **Hidden Units (Layer 2)**: `16, 32`
-- **Batch Sizes**: `16, 32, 64`
+- **Learning Rates**: 0.001, 0.01
+- **Dropout Rates**: 0.2, 0.4
+- **Hidden Units (Layer 1)**: 32, 64, 128
+- **Hidden Units (Layer 2)**: 16, 32
+- **Batch Sizes**: 16, 32, 64
 
 ### Best Model (All Features)
 
