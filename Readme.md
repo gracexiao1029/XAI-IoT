@@ -77,7 +77,7 @@ This **undersampling** technique helps deal with imbalanced data by manually red
 
 ## Feature Selection
 
-A Random Forest model is used to rank the importance of features. The results, including feature rankings, confusion matrix, and ROC curve on the test set, are visualized in the file **'Feature Engineering.ipynb'**.
+A Random Forest model is used to rank the importance of features. The results, including feature rankings, confusion matrix, and ROC curve on the test set, are visualized in the file 'Feature Engineering.ipynb'.
 
 Top N features are selected for the next training phase. To identify the best N, I save subsets of features with different importance thresholds:
 
