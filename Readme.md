@@ -43,7 +43,7 @@ The `time` column in the dataset provides the timestamp of each power consumptio
 
 ### Comparison in Feature Selection
 
-Both approaches were evaluated and compared in the **Feature Selection** phase under two configurations: `XAI-IoT` and `XAI-IoT - time series`. This dual-path exploration helps determine the best modeling goal — whether for **real-world deployment or real-time detection**, which would favor time-series modeling, or for **feature importance analysis and behavior classification**, where using time as a feature may be more effective. These experiments help clarify whether temporal evolution offers predictive power or simply coincides with certain attack intervals.
+Both approaches were evaluated and compared in the **Feature Selection** phase under two configurations: `XAI-IoT (XAI included)` and `XAI-IoT - time series`. This dual-path exploration helps determine the best modeling goal — whether for **real-world deployment or real-time detection**, which would favor time-series modeling, or for **feature importance analysis and behavior classification**, where using time as a feature may be more effective. These experiments help clarify whether temporal evolution offers predictive power or simply coincides with certain attack intervals.
 
 ### Challenges with Time-Series Approach
 
